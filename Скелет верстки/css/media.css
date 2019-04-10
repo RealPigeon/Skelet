@@ -1,0 +1,60 @@
+/* Адаптивная верстка */
+
+
+/*------------------------------------------Desctop First------------*/
+
+@media only screen and (max-width:  1200px) { 
+
+}/*стили для такого типа экрана*/
+
+
+@media only screen and (max-width:  992px) { 
+
+}/*стили для такого типа экрана*/
+
+
+@media only screen and (max-width:  768px) { 
+
+
+}/*стили для такого типа экрана*/
+
+
+@media only screen and (max-width:  480px) {
+
+/*------------------правая колонка----------------------*/
+
+}/*стили для такого типа экрана*/
+
+
+@media only screen and (max-width:  320px) { 
+
+}/*стили для такого типа экрана*/
+
+
+
+
+/*------------------------------------------Mobile First------------*/
+
+@media only screen and (min-width:  320px) { 
+
+}/*стили для такого типа экрана*/
+
+
+@media only screen and (min-width:  480px) { 
+
+}/*стили для такого типа экрана*/
+
+
+@media only screen and (min-width:  768px) { 
+
+}/*стили для такого типа экрана*/
+
+
+@media only screen and (min-width:  992px) { 
+
+}/*стили для такого типа экрана*/
+
+
+@media only screen and (min-width:  1200px) { 
+
+}/*стили для такого типа экрана*/
